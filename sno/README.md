@@ -1,13 +1,12 @@
 # Snō FPGA Images
-This repository is where we share FPGA images for the Alorium Technology Snō board.
-
 <hr>
 
 ## Snō Released Images
 
 | RPD Name                                | Description     |
 |:----------------------------------------|-----------------|
-| name.rpd | Description of Image |
+|[sno_c16_d2_oDefault_x0F_svn2753.rpd](https://github.com/AloriumTechnology/Alorium_FPGA_Images/blob/master/sno/sno_c16_d2_oDefault_x0F_svn2753.rpd) | Snō 16MHz - Standard (Float, NeoPixel, Servo, Quadrature) |
+|[sno_c32_d2_oDefault_x0F_svn2753.rpd](https://github.com/AloriumTechnology/Alorium_FPGA_Images/blob/master/sno/sno_c32_d2_oDefault_x0F_svn2753.rpd) | Snō 32MHz - Standard (Float, NeoPixel, Servo, Quadrature) |
 
 ## Snō Beta Images
 
