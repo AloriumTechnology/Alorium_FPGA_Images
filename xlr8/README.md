@@ -16,8 +16,8 @@
 
 | RPD Name                                | Description     |
 |:----------------------------------------|-----------------|
-|[xlr8_c16_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/Alorium_FPGA_Images/blob/master/xlr8_c16_oDefault_u16_x02_svn2909beta.rpd)| XLR8 16MHz - Servo w/Speed Control |
-|[xlr8_c32_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/Alorium_FPGA_Images/blob/master/xlr8_c32_oDefault_u16_x02_svn2909beta.rpd)| XLR8 32MHz - Servo w/Speed Control |
+|[xlr8_c16_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/Alorium_FPGA_Images/blob/master/xlr8/xlr8_c16_oDefault_u16_x02_svn2909beta.rpd)| XLR8 16MHz - Servo w/Speed Control |
+|[xlr8_c32_oDefault_u16_x02_svn2909beta.rpd](https://github.com/AloriumTechnology/Alorium_FPGA_Images/blob/master/xlr8/xlr8_c32_oDefault_u16_x02_svn2909beta.rpd)| XLR8 32MHz - Servo w/Speed Control |
 
 
 <hr>
