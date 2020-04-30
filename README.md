@@ -17,6 +17,7 @@ your board, selecting an image, and clicking "Burn Bootloader".
 Detailed instructions for doing this can be found in this YouTube tutorial:
 
 [How to Update XLR8/Snō Board Package in Arduino IDE](https://youtu.be/OsKAWWdKsxM)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=OsKAWWdKsxM
 " target="_blank"><img src="http://img.youtube.com/vi/OsKAWWdKsxM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="2" /></a>
@@ -75,6 +76,7 @@ If you are feeling adventurous, you can also try our Beta web-based RPD Image lo
 You can learn more about that process here:
 
 [How to Update FPGAs Over the Web with the Alorium Web Loader](https://youtu.be/_GwRZJImrWo)
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_GwRZJImrWo
 " target="_blank"><img src="http://img.youtube.com/vi/_GwRZJImrWo/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="480" height="360" border="2" /></a>
